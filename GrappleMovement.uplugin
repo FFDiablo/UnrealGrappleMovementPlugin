@@ -1,0 +1,24 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "Grapple Movement Plugin",
+    "Description": "Plugin providing Worlds Adrift‑style grapple movement using Character Movement Component and Enhanced Inputs with network support.",
+    "Category": "Gameplay",
+    "CreatedBy": "Assistant",
+    "CreatedByURL": "",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "CanContainContent": true,
+    "IsBetaVersion": false,
+    "IsExperimentalVersion": false,
+    "Installed": false,
+    "Modules": [
+        {
+            "Name": "GrappleMovement",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}
